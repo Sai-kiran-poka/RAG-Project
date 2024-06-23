@@ -1,0 +1,11 @@
+langchain-community
+langchain
+pypdf
+chromadb
+unstructured
+openai
+langchain-openai
+langchain-huggingface
+sentence-transformers
+einops
+flask
